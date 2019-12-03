@@ -22,5 +22,4 @@ $ heroku git:remote -a {your-project-name}
 ```
 $ git push heroku master
 ```
-### In the log that has been shown in the console you will find a link for your application at: </br>
-https://{your-project-name}.herokuapp.com/
+You will find a link for your application at: <b>https://{your-project-name}.herokuapp.com/</b>
